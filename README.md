@@ -9,5 +9,12 @@ scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 
 <!-- SCALETTA operazioni da svolgere
-
--->
+    Operazione 1: creare ciclo for
+    Operazione 2: inizializzo la variabile contatore
+    Operazione 3: impongo la condizione di fine ciclo
+    Operazione 4: incremento variabile contatore
+    Operazione 5: creare if per vedere se il numero è divisibile per 3
+    Operazione 6: creare else if per vedere se il numero è divisibile per 5
+    Operazione 7: creare if annidato per vedere se il numero è divisibile per 3 e per 5
+    Operazione 8: creare else per stampare i numeri che non sono divisibili nè per 3 nè per 5
+-- >
